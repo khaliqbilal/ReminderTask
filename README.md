@@ -16,17 +16,17 @@ A simple and user-friendly Flutter application designed to help users manage dai
 
 ## 📌 Project Description
 
-This project is a Flutter-based mobile application that allows users to create, manage, and track their daily tasks. It is designed to improve productivity by setting reminders and organizing tasks in a structured way.
+This Flutter-based application helps users organize their daily tasks and set reminders. It provides a clean interface and essential features to improve productivity and task management.
 
 ---
 
 ## ✨ Features
 
 * ➕ Add new tasks
-* 📝 Edit existing tasks
+* 📝 Edit tasks
 * ❌ Delete tasks
 * ⏰ Set reminders
-* 📋 View all tasks in a list
+* 📋 View all tasks
 * 🎯 Simple and clean UI
 
 ---
@@ -41,39 +41,12 @@ This project is a Flutter-based mobile application that allows users to create, 
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Installation
 
-Make sure you have installed:
-
-* Flutter SDK
-* Android Studio or VS Code
-* Emulator or Physical Device
-
----
-
-### Installation Steps
-
-1. Clone the repository:
-
-```
+```bash
 git clone https://github.com/khaliqbilal/ReminderTask.git
-```
-
-2. Navigate to project folder:
-
-```
 cd ReminderTask
-```
-
-3. Get dependencies:
-
-```
 flutter pub get
-```
-
-4. Run the app:
-
-```
 flutter run
 ```
 
@@ -83,9 +56,6 @@ flutter run
 
 ```
 lib/
- ├── main.dart
- ├── screens/
- ├── widgets/
 android/
 ios/
 web/
@@ -93,29 +63,35 @@ web/
 
 ---
 
-## 📖 Learning Outcomes
+## 📸 Screenshots
 
-* Understanding Flutter widgets
-* Managing state in Flutter
-* Working with UI design
-* Handling user input
+### 🖼️ App Screens
+
+#### Screen 1
+
+![Screen 1](1.jpg)
+
+#### Screen 2
+
+![Screen 2](2.jpg)
 
 ---
 
-## 📸 Screenshots
+## 📖 Learning Outcomes
 
-
+* Understanding Flutter widgets
+* UI design in Flutter
+* Task management logic
+* Handling user interaction
 
 ---
 
 ## 🤝 Acknowledgment
 
-Special thanks to **Mam Ghulam Fatima** for guidance and support throughout this project.
+Special thanks to **Mam Ghulam Fatima** for guidance and support.
 
 ---
 
 ## 📄 License
 
 This project is for educational purposes only.
-
----
